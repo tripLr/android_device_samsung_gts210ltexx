@@ -77,10 +77,10 @@
   <ctl name="AIF1TX2 Input 2" value="ASRC2R" />
 
   <!-- LHPF1 & 2 filter -->
-  <ctl name="LHPF1 Coefficients" value="240 58" />
-  <ctl name="LHPF2 Coefficients" value="240 58" />
-  <ctl name="LHPF3 Coefficients" value="240 1" />
-  <ctl name="LHPF4 Coefficients" value="240 58" />
+  <!-- name="LHPF1 Coefficients" value="240 58" -->
+  <!-- name="LHPF2 Coefficients" value="240 58" -->
+  <!-- name="LHPF3 Coefficients" value="240 1" -->
+  <!-- name="LHPF4 Coefficients" value="240 58" -->
 
   <!-- ctl name="LHPF1 COEFF FILTER" value="0"  -->
   <!--  this is need to add to machine driver -->
