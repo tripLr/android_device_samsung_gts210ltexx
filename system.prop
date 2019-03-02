@@ -2,9 +2,6 @@
 # system.prop for gts210ltexx
 #
 
-# Hardware rotation
-ro.sf.hwrotation=270
-
 # RIL
 rild.libpath=/vendor/lib/libsec-ril.so
 ro.ril.hsxpa=1
