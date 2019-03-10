@@ -35,4 +35,4 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
   TARGET_DEVICE=gts210ltexx \
   PRIVATE_BUILD_DESC="gts210ltexx-user 7.0 NRD90M T815XXU2CRH1 release-keys"
 
-BUILD_FINGERPRINT := amsung/gts210ltexx/gts210lte:7.0/NRD90M/T815XXU2CRH1:user/release-keys
+BUILD_FINGERPRINT := samsung/gts210ltexx/gts210lte:7.0/NRD90M/T815XXU2CRH1:user/release-keys
