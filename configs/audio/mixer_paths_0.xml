@@ -115,6 +115,7 @@
   <ctl name="DAC Comp" value="0 0 0 1" />
   <ctl name="FRF Coefficients" value="14 104 231 142 13 28 252 210" />
 
+
   <!--HW DRE default Off -->
   <ctl name="HPOUT DRE Switch" value="1" />
   <ctl name="HPOUT EDRE Switch" value="1" />
@@ -251,8 +252,8 @@
 
   <path name="gain-media-headset-mic">
     <ctl name="IN2 Volume" value="30" />
-    <ctl name="IN2 Digital Volume" value="127" />
-    <ctl name="LHPF1 Input 1 Volume" value="49" />
+    <ctl name="IN2 Digital Volume" value="145" />
+    <ctl name="LHPF1 Input 1 Volume" value="45" />
   </path>
 
   <path name="headset-mic">
@@ -283,9 +284,9 @@
   </path>
 
   <path name="gain-camcorder-mic">
-    <ctl name="IN1L Volume" value="14" />
-    <ctl name="IN1L Digital Volume" value="127" />
-    <ctl name="LHPF1 Input 1 Volume" value="49" />
+    <ctl name="IN1L Volume" value="30" />
+    <ctl name="IN1L Digital Volume" value="145" />
+    <ctl name="LHPF1 Input 1 Volume" value="45" />
   </path>
 
   <path name="camcorder-mic">
@@ -356,26 +357,26 @@
   </path>
 
   <path name="gain-media-speaker">
-    <ctl name="Speaker Digital Volume" value="120" />
-    <ctl name="SPKOUTL Input 1 Volume" value="45" />
-    <ctl name="SPKOUTR Input 1 Volume" value="45" />
+    <ctl name="Speaker Digital Volume" value="123" />
+    <ctl name="SPKOUTL Input 1 Volume" value="35" />
+    <ctl name="SPKOUTR Input 1 Volume" value="35" />
   </path>
 
   <path name="gain-media-headset">
     <ctl name="Noise Gate Switch" value="0" />
-    <ctl name="HPOUT Digital Volume" value="119" />
-    <ctl name="HPOUTL Input 1 Volume" value="32" />
-    <ctl name="HPOUTR Input 1 Volume" value="32" />
+    <ctl name="HPOUT Digital Volume" value="120" />
+    <ctl name="HPOUTL Input 1 Volume" value="28" />
+    <ctl name="HPOUTR Input 1 Volume" value="28" />
   </path>
 
   <path name="gain-media-speaker-headset">
-    <ctl name="Speaker Digital Volume" value="126" />
-    <ctl name="SPKOUTL Input 1 Volume" value="30" />
-    <ctl name="SPKOUTR Input 1 Volume" value="30" />
+    <ctl name="Speaker Digital Volume" value="123" />
+    <ctl name="SPKOUTL Input 1 Volume" value="35" />
+    <ctl name="SPKOUTR Input 1 Volume" value="35" />
     <ctl name="Noise Gate Switch" value="0" />
-    <ctl name="HPOUT Digital Volume" value="60" />
-    <ctl name="HPOUTL Input 1 Volume" value="32" />
-    <ctl name="HPOUTR Input 1 Volume" value="32" />
+    <ctl name="HPOUT Digital Volume" value="120" />
+    <ctl name="HPOUTL Input 1 Volume" value="28" />
+    <ctl name="HPOUTR Input 1 Volume" value="28" />
   </path>
 
   <path name="gain-media-bt-sco-headset">
@@ -388,9 +389,9 @@
   </path>
 
   <path name="gain-incall_nb-speaker">
-    <ctl name="Speaker Digital Volume" value="128" />
-    <ctl name="SPKOUTL Input 1 Volume" value="32" />
-    <ctl name="SPKOUTR Input 1 Volume" value="32" />
+    <ctl name="Speaker Digital Volume" value="123" />
+    <ctl name="SPKOUTL Input 1 Volume" value="35" />
+    <ctl name="SPKOUTR Input 1 Volume" value="35" />
   </path>
 
   <path name="gain-incall_nb-headset">
@@ -441,8 +442,8 @@
 
   <path name="gain-media-mic">
     <ctl name="IN1L Volume" value="30" />
-    <ctl name="IN1L Digital Volume" value="127" />
-    <ctl name="LHPF1 Input 1 Volume" value="49" />
+    <ctl name="IN1L Digital Volume" value="145" />
+    <ctl name="LHPF1 Input 1 Volume" value="45" />
   </path>
 
   <path name="gain-media-bt-sco-headset-in">
@@ -452,14 +453,14 @@
 
   <path name="gain-recording-mic">
     <ctl name="IN1L Volume" value="30" />
-    <ctl name="IN1L Digital Volume" value="127" />
-    <ctl name="LHPF1 Input 1 Volume" value="49" />
+    <ctl name="IN1L Digital Volume" value="145" />
+    <ctl name="LHPF1 Input 1 Volume" value="45" />
   </path>
 
   <path name="gain-recording-headset-mic">
     <ctl name="IN2 Volume" value="30" />
-    <ctl name="IN2 Digital Volume" value="127" />
-    <ctl name="LHPF1 Input 1 Volume" value="49" />
+    <ctl name="IN2 Digital Volume" value="145" />
+    <ctl name="LHPF1 Input 1 Volume" value="45" />
   </path>
 
   <path name="gain-incall_nb-handset-mic">
