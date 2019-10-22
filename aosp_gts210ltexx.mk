@@ -23,7 +23,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/aosp_base_telephony.mk)
 # Inherit common AOSP stuff
 $(call inherit-product, vendor/aosp/config/common.mk)
 $(call inherit-product, vendor/aosp/config/telephony.mk)
-$(call inherit-product, vendor/aosp/config/aex_props.mk)
+#$(call inherit-product, vendor/aosp/config/aex_props.mk)
 
 PRODUCT_NAME := aosp_gts210ltexx
 PRODUCT_DEVICE := gts210ltexx
